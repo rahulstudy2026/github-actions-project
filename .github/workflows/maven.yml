@@ -1,4 +1,3 @@
-
 name: Build, SonarQube Analysis and Tomcat Deployment
 
 on:
